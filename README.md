@@ -14,7 +14,7 @@ hardware/qcom-caf/common line:
 HALs line:
 ```
   <project path="hardware/qcom-caf/sm6225/audio/agm" name="SM6225-Devs-ID/vendor_qcom_opensource_agm" remote="github" revision="14-caf-sm6225" />
-  <project path="hardware/qcom-caf/sm6225/audio/pal" name="SM6225-Devs-ID/vendor_qcom_opensource_arpal" remote="github" revision="14-caf-sm6225" />
+  <project path="hardware/qcom-caf/sm6225/audio/pal" name="SM6225-Devs-ID/vendor_qcom_opensource_arpal-lx" remote="github" revision="14-caf-sm6225" />
   <project path="hardware/qcom-caf/sm6225/audio/primary-hal" name="SM6225-Devs-ID/hardware_qcom_audio" remote="github" revision="14-caf-sm6225" />
   <project path="hardware/qcom-caf/sm6225/data-ipa-cfg-mgr" name="SM6225-Devs-ID/vendor_qcom_opensource_data-ipa-cfg-mgr" remote="github" revision="14-caf-sm6225" />
   <project path="hardware/qcom-caf/sm6225/dataipa" name="SM6225-Devs-ID/vendor_qcom_opensource_dataipa" remote="github" revision="14-caf-sm6225" />
